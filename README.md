@@ -1,25 +1,34 @@
+<div align="center">
+
 # Claude Code From Scratch
 
-[![GitHub stars](https://img.shields.io/github/stars/Windy3f3f3f3f/claude-code-from-scratch?style=social)](https://github.com/Windy3f3f3f3f/claude-code-from-scratch)
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](./LICENSE)
-[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)](#)
-[![Lines of Code](https://img.shields.io/badge/~1300_lines-minimal-green)](#)
+**一步一步，从零造一个 Claude Code**
 
-> 一步一步，从零造一个 Claude Code
+[![GitHub stars](https://img.shields.io/github/stars/Windy3f3f3f3f/claude-code-from-scratch?style=flat-square&logo=github)](https://github.com/Windy3f3f3f3f/claude-code-from-scratch)
+[![GitHub forks](https://img.shields.io/github/forks/Windy3f3f3f3f/claude-code-from-scratch?style=flat-square&logo=github)](https://github.com/Windy3f3f3f3f/claude-code-from-scratch/fork)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square)](./LICENSE)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)](#)
+[![Lines of Code](https://img.shields.io/badge/~1300_lines-minimal-green?style=flat-square)](#)
 
-<p align="center">
-  <a href="https://windy3f3f3f3f.github.io/claude-code-from-scratch/"><strong>📘 在线阅读教程 →</strong></a>
-  &nbsp;&nbsp;|&nbsp;&nbsp;
-  <a href="./README_EN.md">English</a>
-</p>
+<br/>
+
+[**📘 在线阅读教程 →**](https://windy3f3f3f3f.github.io/claude-code-from-scratch/)
+&nbsp;&nbsp;|&nbsp;&nbsp;
+[English](./README_EN.md)
+
+<br/>
 
 > 📖 **想深入了解原理？** 姊妹项目 **[How Claude Code Works](https://github.com/Windy3f3f3f3f/how-claude-code-works)** — 12 篇专题，33 万字，从源码级别深度解析 Claude Code 架构
+
+</div>
 
 ---
 
 **用 ~1300 行 TypeScript 复现 Claude Code 的核心能力。** 这不是 demo，而是一份分步教程——每一步都对照 Claude Code 真实源码讲解"它怎么做的 → 我们怎么简化的"，帮你彻底理解 coding agent 的工作原理。
 
-<video src="https://github.com/user-attachments/assets/4f6597e2-6ea3-45ae-8a6b-77662c4e9540" width="100%" autoplay loop muted playsinline></video>
+<div align="center">
+  <video src="https://github.com/user-attachments/assets/4f6597e2-6ea3-45ae-8a6b-77662c4e9540" width="100%" autoplay loop muted playsinline></video>
+</div>
 
 ## 分步教程
 
@@ -164,6 +173,28 @@ src/
 ## 致谢
 
 感谢 [LINUX DO](https://linux.do/) 社区的支持与讨论。
+
+## 更多交流
+
+<div align="center">
+
+**加入 AI Agent 工坊 交流群**
+
+<img src="./assets/qq.jpg" width="280" alt="QQ 群二维码" />
+
+QQ 群号：**1090526244**
+
+</div>
+
+## Star History
+
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=Windy3f3f3f3f/claude-code-from-scratch&type=Date&theme=dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=Windy3f3f3f3f/claude-code-from-scratch&type=Date" />
+  <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=Windy3f3f3f3f/claude-code-from-scratch&type=Date" width="600" />
+</picture>
+</div>
 
 ## License
 
