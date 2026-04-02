@@ -8,13 +8,13 @@
 graph TB
     subgraph 记忆系统
         Save[保存记忆<br/>write_file → .md] --> Index[MEMORY.md 索引]
-        Index --> Inject1[注入 system prompt<br/>{{memory}}]
+        Index --> Inject1[注入 system prompt<br/>memory变量]
         Query[用户提问] --> Recall[关键词召回<br/>recallMemories]
     end
 
     subgraph 技能系统
         Discover[扫描 .claude/skills/] --> Parse[解析 SKILL.md<br/>frontmatter + 模板]
-        Parse --> Inject2[注入 system prompt<br/>{{skills}}]
+        Parse --> Inject2[注入 system prompt<br/>skills变量]
         Parse --> Invoke{调用方式}
         Invoke -->|用户 /name| REPL[CLI 直接执行]
         Invoke -->|模型判断| Tool[skill 工具调用]
